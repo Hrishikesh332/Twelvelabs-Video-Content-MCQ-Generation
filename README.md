@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Hrishikesh332/Twelvelabs-Video-Content-MCQ-Generation">
-    <img src="https://github.com/Hrishikesh332/Twelvelabs-Video-Content-MCQ-Generation/blob/main/src/logo-mcq-generator.jpg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Hrishikesh332/Twelvelabs-Video-Content-MCQ-Generation/blob/main/src/logo-mcq-generator.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Video Content MCQ Generator</h3>
   <p align="center">
