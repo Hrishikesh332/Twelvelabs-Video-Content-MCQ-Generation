@@ -48,7 +48,7 @@ def generate_quiz():
     if questions:
         st.session_state.questions = questions
         st.session_state.page = "quiz"
-        st.experimental_rerun()
+
     else:
         st.error("Failed to generate quiz questions. Please try again.")
 
