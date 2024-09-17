@@ -44,8 +44,8 @@ Try out the application now -
 
 [![📝 AI Interview App](https://img.shields.io/badge/Video_Content_MCQ_Generator-📝_Launch_the_App-4CAF50?style=for-the-badge)](https://video-mcq-generator.streamlit.app/)
 
-
-Video is to be added
+Explanation Video and Demo -
+[![Watch the video](https://img.youtube.com/vi/kBuuFu2WNkg/hqdefault.jpg)](https://www.youtube.com/watch?v=kBuuFu2WNkg)
 
 ## Features
 
