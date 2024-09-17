@@ -7,7 +7,7 @@
     <a href="https://github.com/Hrishikesh332/Twelvelabs-Video-Content-MCQ-Generation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Hrishikesh332/Twelvelabs-Video-Content-MCQ-Generation">View Demo</a>
+    <a href="https://video-mcq-generator.streamlit.app/">View Demo</a>
     ·
     <a href="https://github.com/Hrishikesh332/Twelvelabs-Video-Content-MCQ-Generation/issues">Report Bug</a>
     ·
@@ -45,6 +45,7 @@ Try out the application now -
 [![📝 AI Interview App](https://img.shields.io/badge/Video_Content_MCQ_Generator-📝_Launch_the_App-4CAF50?style=for-the-badge)](https://video-mcq-generator.streamlit.app/)
 
 Explanation Video and Demo -
+
 [![Watch the video](https://img.youtube.com/vi/kBuuFu2WNkg/hqdefault.jpg)](https://www.youtube.com/watch?v=kBuuFu2WNkg)
 
 ## Features
